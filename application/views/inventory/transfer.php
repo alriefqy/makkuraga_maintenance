@@ -54,9 +54,6 @@
                 <?php } ?>
               </select> 
             </div>
-              <div class="col-md-1 col-sm-2 col-xs-12">
-                  <p>Scan Barcode</p>
-              </div>
           </form>
           <div class="x_content data-backlog">
            <table id="datatable" class="table table-striped table-bordered table-mechanic">
