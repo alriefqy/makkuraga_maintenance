@@ -31,7 +31,7 @@
         <div class="animate form login_form">
           <section class="login_content">
             <form action="login" method="post" novalidate>
-              <h1>Login Web  <br> Makkuraga Monitoring Apps Testing</h1>
+              <h1>Login Web  <br> Makkuraga Monitoring Apps</h1>
               <div>
                 <input type="text" class="form-control" name="user_name" placeholder="Username" required="" />
               </div>
